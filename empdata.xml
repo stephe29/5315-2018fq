@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <inventory>
+  <employee>
     <data>
       <product_id>10001</product_id>
       <product_category>Beer</product_category>
@@ -180,4 +180,4 @@
       <last_months_sales>14</last_months_sales>
       <customer_raiting>4.1</customer_raiting>
     </data>
-  </inventory>
+  </employee>>
