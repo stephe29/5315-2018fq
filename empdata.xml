@@ -1,123 +1,183 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <employees>
+  <inventory>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <product_id>10001</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Blue Moon</product_name>
+      <list_price>$14.99</list_price>
+      <quantity_on_hand>53</quantity_on_hand>
+      <last_months_sales>22</last_months_sales>
+      <customer_raiting>3.8</customer_raiting>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <product_id>10002</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Stella Artois</product_name>
+      <list_price>$13.99</list_price>
+      <quantity_on_hand>102</quantity_on_hand>
+      <last_months_sales>57</last_months_sales>
+      <customer_raiting>4.7</customer_raiting>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <product_id>10003</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Spaten Oktoberfest</product_name>
+      <list_price>$8.99</list_price>
+      <quantity_on_hand>77</quantity_on_hand>
+      <last_months_sales>153</last_months_sales>
+      <customer_raiting>4.8</customer_raiting>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <product_id>10004</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Bud Light</product_name>
+      <list_price>$10.49</list_price>
+      <quantity_on_hand>222</quantity_on_hand>
+      <last_months_sales>117</last_months_sales>
+      <customer_raiting>3.6</customer_raiting>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <product_id>10005</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Coors Light</product_name>
+      <list_price>$10.49</list_price>
+      <quantity_on_hand>79</quantity_on_hand>
+      <last_months_sales>132</last_months_sales>
+      <customer_raiting>4.3</customer_raiting>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <product_id>10006</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Elysian Space Dust IPA</product_name>
+      <list_price>$18.99</list_price>
+      <quantity_on_hand>34</quantity_on_hand>
+      <last_months_sales>52</last_months_sales>
+      <customer_raiting>4.5</customer_raiting>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <product_id>20001</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Lagavulin 16 Yr</product_name>
+      <list_price>$69.99</list_price>
+      <quantity_on_hand>55</quantity_on_hand>
+      <last_months_sales>62</last_months_sales>
+      <customer_raiting>4.7</customer_raiting>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <product_id>20002</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Laphroaig 10 Yr</product_name>
+      <list_price>$44.99</list_price>
+      <quantity_on_hand>65</quantity_on_hand>
+      <last_months_sales>79</last_months_sales>
+      <customer_raiting>4.8</customer_raiting>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <product_id>20003</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Ardbeg 10 Yr</product_name>
+      <list_price>$62.99</list_price>
+      <quantity_on_hand>34</quantity_on_hand>
+      <last_months_sales>42</last_months_sales>
+      <customer_raiting>4.6</customer_raiting>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <product_id>20004</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Kilchoman Loch Grom</product_name>
+      <list_price>$99.99</list_price>
+      <quantity_on_hand>26</quantity_on_hand>
+      <last_months_sales>17</last_months_sales>
+      <customer_raiting>4.9</customer_raiting>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <product_id>20005</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Bruichladdich Octomore 6.1</product_name>
+      <list_price>$159.99</list_price>
+      <quantity_on_hand>12</quantity_on_hand>
+      <last_months_sales>32</last_months_sales>
+      <customer_raiting>4.9</customer_raiting>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <product_id>20006</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Laphroaig Quarter Cask</product_name>
+      <list_price>$69.99</list_price>
+      <quantity_on_hand>49</quantity_on_hand>
+      <last_months_sales>73</last_months_sales>
+      <customer_raiting>4.8</customer_raiting>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <product_id>20007</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Ardbeg Corryvreckan</product_name>
+      <list_price>$109.99</list_price>
+      <quantity_on_hand>38</quantity_on_hand>
+      <last_months_sales>77</last_months_sales>
+      <customer_raiting>4.9</customer_raiting>
     </data>
     <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <product_id>20008</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Bruichladdich Port Charlotte</product_name>
+      <list_price>$69.99</list_price>
+      <quantity_on_hand>24</quantity_on_hand>
+      <last_months_sales>33</last_months_sales>
+      <customer_raiting>5.0</customer_raiting>
     </data>
     <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <product_id>20009</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Oban 14 Yr</product_name>
+      <list_price>$63.99</list_price>
+      <quantity_on_hand>61</quantity_on_hand>
+      <last_months_sales>49</last_months_sales>
+      <customer_raiting>4.8</customer_raiting>
     </data>
-  </employees>
+    <data>
+      <product_id>20010</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Talisker 10 Yr</product_name>
+      <list_price>$71.99</list_price>
+      <quantity_on_hand>32</quantity_on_hand>
+      <last_months_sales>17</last_months_sales>
+      <customer_raiting>4.6</customer_raiting>
+    </data>
+    <data>
+      <product_id>20011</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Jura 10 Yr</product_name>
+      <list_price>$59.99</list_price>
+      <quantity_on_hand>23</quantity_on_hand>
+      <last_months_sales>29</last_months_sales>
+      <customer_raiting>4.0</customer_raiting>
+    </data>
+    <data>
+      <product_id>20012</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Caol Ila 12 Yr</product_name>
+      <list_price>$69.99</list_price>
+      <quantity_on_hand>25</quantity_on_hand>
+      <last_months_sales>14</last_months_sales>
+      <customer_raiting>4.1</customer_raiting>
+    </data>
+  </inventory>
