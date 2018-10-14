@@ -10,22 +10,26 @@
     <table id="empTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Product ID</th>
+                <th>Product Category</th>
+                <th>Product Category ID</th>
+                <th>Product Name</th>
+                <th>List Price</th>
+                <th>Quantity on Hand</th>
+                <th>Last Month Sales</th>
+                <th>Customer Raiting</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Product ID</th>
+                <th>Product Category</th>
+                <th>Product Category ID</th>
+                <th>Product Name</th>
+                <th>List Price</th>
+                <th>Quantity on Hand</th>
+                <th>Last Month Sales</th>
+                <th>Customer Raiting</th>
             </tr>
         </tfoot>
     </table>
@@ -40,12 +44,14 @@
         $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
-                {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": "product_id"},
+                {"data": "product_category"},
+                {"data": "product_category_id"},
+                {"data": "product_name"},
+                {"data": "list_price"},
+                {"data": "quantity_on_hand"},
+                {"data": "last_months_sales"},
+                {"data": "customer_raiting"}
             ]
         });   
     });
