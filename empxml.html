@@ -13,7 +13,7 @@
        var t = $('#chart').DataTable();
        $.ajax({
             type: "GET",
-            url: "empdata.xml", 
+            url: "empdata_update.xml", 
             dataType: "xml",
             success: function(xml) {  
              $(xml).find('data').each(function(){  
@@ -44,7 +44,7 @@
             <th>Product Name</th>
             <th>List Price</th>
             <th>Quantity on Hand</th>
-            <th>Last Months Sales</th>
+            <th>Last Month Sales</th>
             <th>Customer Raiting</th>
         </tr>
     </thead>
@@ -57,7 +57,7 @@
             <th>Product Name</th>
             <th>List Price</th>
             <th>Quantity on Hand</th>
-            <th>Last Months Sales</th>
+            <th>Last Month Sales</th>
             <th>Customer Raiting</th>
         </tr>
     </tfoot>

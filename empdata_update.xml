@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <inventory>
+    <data>
+      <product_id>10001</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Blue Moon</product_name>
+      <list_price>$14.99</list_price>
+      <quantity_on_hand>53</quantity_on_hand>
+      <last_months_sales>22</last_months_sales>
+      <customer_raiting>3.8</customer_raiting>
+    </data>
+    <data>
+      <product_id>10002</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Stella Artois</product_name>
+      <list_price>$13.99</list_price>
+      <quantity_on_hand>102</quantity_on_hand>
+      <last_months_sales>57</last_months_sales>
+      <customer_raiting>4.7</customer_raiting>
+    </data>
+    <data>
+      <product_id>10003</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Spaten Oktoberfest</product_name>
+      <list_price>$8.99</list_price>
+      <quantity_on_hand>77</quantity_on_hand>
+      <last_months_sales>153</last_months_sales>
+      <customer_raiting>4.8</customer_raiting>
+    </data>
+    <data>
+      <product_id>10004</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Bud Light</product_name>
+      <list_price>$10.49</list_price>
+      <quantity_on_hand>222</quantity_on_hand>
+      <last_months_sales>117</last_months_sales>
+      <customer_raiting>3.6</customer_raiting>
+    </data>
+    <data>
+      <product_id>10005</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Coors Light</product_name>
+      <list_price>$10.49</list_price>
+      <quantity_on_hand>79</quantity_on_hand>
+      <last_months_sales>132</last_months_sales>
+      <customer_raiting>4.3</customer_raiting>
+    </data>
+    <data>
+      <product_id>10006</product_id>
+      <product_category>Beer</product_category>
+      <product_category_id>100</product_category_id>
+      <product_name>Elysian Space Dust IPA</product_name>
+      <list_price>$18.99</list_price>
+      <quantity_on_hand>34</quantity_on_hand>
+      <last_months_sales>52</last_months_sales>
+      <customer_raiting>4.5</customer_raiting>
+    </data>
+    <data>
+      <product_id>20001</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Lagavulin 16 Yr</product_name>
+      <list_price>$69.99</list_price>
+      <quantity_on_hand>55</quantity_on_hand>
+      <last_months_sales>62</last_months_sales>
+      <customer_raiting>4.7</customer_raiting>
+    </data>
+    <data>
+      <product_id>20002</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Laphroaig 10 Yr</product_name>
+      <list_price>$44.99</list_price>
+      <quantity_on_hand>65</quantity_on_hand>
+      <last_months_sales>79</last_months_sales>
+      <customer_raiting>4.8</customer_raiting>
+    </data>
+    <data>
+      <product_id>20003</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Ardbeg 10 Yr</product_name>
+      <list_price>$62.99</list_price>
+      <quantity_on_hand>34</quantity_on_hand>
+      <last_months_sales>42</last_months_sales>
+      <customer_raiting>4.6</customer_raiting>
+    </data>
+    <data>
+      <product_id>20004</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Kilchoman Loch Grom</product_name>
+      <list_price>$99.99</list_price>
+      <quantity_on_hand>26</quantity_on_hand>
+      <last_months_sales>17</last_months_sales>
+      <customer_raiting>4.9</customer_raiting>
+    </data>
+    <data>
+      <product_id>20005</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Bruichladdich Octomore 6.1</product_name>
+      <list_price>$159.99</list_price>
+      <quantity_on_hand>12</quantity_on_hand>
+      <last_months_sales>32</last_months_sales>
+      <customer_raiting>4.9</customer_raiting>
+    </data>
+    <data>
+      <product_id>20006</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Laphroaig Quarter Cask</product_name>
+      <list_price>$69.99</list_price>
+      <quantity_on_hand>49</quantity_on_hand>
+      <last_months_sales>73</last_months_sales>
+      <customer_raiting>4.8</customer_raiting>
+    </data>
+    <data>
+      <product_id>20007</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Ardbeg Corryvreckan</product_name>
+      <list_price>$109.99</list_price>
+      <quantity_on_hand>38</quantity_on_hand>
+      <last_months_sales>77</last_months_sales>
+      <customer_raiting>4.9</customer_raiting>
+    </data>
+    <data>
+      <product_id>20008</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Bruichladdich Port Charlotte</product_name>
+      <list_price>$69.99</list_price>
+      <quantity_on_hand>24</quantity_on_hand>
+      <last_months_sales>33</last_months_sales>
+      <customer_raiting>5.0</customer_raiting>
+    </data>
+    <data>
+      <product_id>20009</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Oban 14 Yr</product_name>
+      <list_price>$63.99</list_price>
+      <quantity_on_hand>61</quantity_on_hand>
+      <last_months_sales>49</last_months_sales>
+      <customer_raiting>4.8</customer_raiting>
+    </data>
+    <data>
+      <product_id>20010</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Talisker 10 Yr</product_name>
+      <list_price>$71.99</list_price>
+      <quantity_on_hand>32</quantity_on_hand>
+      <last_months_sales>17</last_months_sales>
+      <customer_raiting>4.6</customer_raiting>
+    </data>
+    <data>
+      <product_id>20011</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Jura 10 Yr</product_name>
+      <list_price>$59.99</list_price>
+      <quantity_on_hand>23</quantity_on_hand>
+      <last_months_sales>29</last_months_sales>
+      <customer_raiting>4.0</customer_raiting>
+    </data>
+    <data>
+      <product_id>20012</product_id>
+      <product_category>Scotch</product_category>
+      <product_category_id>200</product_category_id>
+      <product_name>Caol Ila 12 Yr</product_name>
+      <list_price>$69.99</list_price>
+      <quantity_on_hand>25</quantity_on_hand>
+      <last_months_sales>14</last_months_sales>
+      <customer_raiting>4.1</customer_raiting>
+    </data>
+  </inventory>
